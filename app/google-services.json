@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82264974998",
+    "firebase_url": "https://waziup-196005.firebaseio.com",
+    "project_id": "waziup-196005",
+    "storage_bucket": "waziup-196005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82264974998:android:5e02fba65fb715ee",
+        "android_client_info": {
+          "package_name": "com.tutsplus.code.android.tutsplusupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82264974998-fuqli88bkuhk763ombou5bk5js3d56um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutsplus.code.android.tutsplusupload",
+            "certificate_hash": "6cfcd8a8fb9fef04b61bdf8205927f3e02e4cd08"
+          }
+        },
+        {
+          "client_id": "82264974998-s8d3pn3nd5jhaksv83f17e548d3fj5d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTp_8nK6Kl5Cm7ivY8Jygg7Mz4xmpmb38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82264974998-s8d3pn3nd5jhaksv83f17e548d3fj5d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
