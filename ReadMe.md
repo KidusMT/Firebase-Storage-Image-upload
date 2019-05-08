@@ -11,3 +11,7 @@ Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions w
 
 [published url]: [TUTORIAL URL]
 [instructor url]: https://tutsplus.com/authors/chinedu-izuchukwu
+
+
+I have removed the google-services.json file from the project. 
+you need to add yours if you are testing this project.
